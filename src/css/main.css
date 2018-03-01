@@ -1,0 +1,127 @@
+* { box-sizing: border-box; }
+
+header{
+  width: 100%;
+  height: 60px;
+  margin: 0px;
+  background-color: #fff;
+
+}
+
+button{
+	cursor:pointer;
+}
+
+div.menuiz{
+  width: 13%;
+  height: 250px;
+  margin: 0px;
+  background-color:#fff;
+  float: left;
+  border: solid 2px;
+
+}
+
+div.contenido{
+  width:87%;
+  height: 250px;
+  background-color: #fff;
+  float: right;
+  border: solid 2px;
+}
+
+div.headeriz{
+  width: 13%;
+  height: 76px;
+  margin: 0px;
+  float: left;
+  background: #fff;
+
+}
+
+
+div.headermedio{
+  width: 67%;
+  height: 76px
+  margin: 13%;
+  float: left;
+  background: #fff;
+
+}
+
+div.headerdere{
+  width: 20%;
+  height: 76px;
+  margin: 0%;
+  float: right;
+  background: #fff;
+
+}
+
+input#buscador{
+  width: 580px;
+  height: 36px;
+  padding: 6px 10px;
+  float: left;
+  margin: 20px 10px;
+  color:#333;
+	border-radius:2px 0px 0px 2px;
+}
+
+
+
+button.iconomenuiz{
+	width:40px;
+	height:40px;
+	padding:8px;
+	background-color:#fff;
+	border:none;
+	outline:none;
+	border-radius:40px;
+	margin:8px 20px;
+}
+button.iconomenuiz:active{
+	background-color:#eee;
+}
+
+button.iconoup{
+	width:40px;
+	height:40px;
+	padding:8px;
+	background-color:#fff;
+	border:none;
+	outline:none;
+	border-radius:40px;
+	margin:15px 10px;
+}
+button.iconoup:active{
+	background-color:#eee;
+}
+
+button.iconopags{
+	width:40px;
+	height:40px;
+	padding:8px;
+	background-color:#fff;
+	border:none;
+	outline:none;
+	border-radius:40px;
+	margin:15px 10px;
+}
+button.iconopags:active{
+	background-color:#eee;
+}
+
+button.iconoconfig{
+	width:40px;
+	height:40px;
+	padding:8px;
+	background-color:#fff;
+	border:none;
+	outline:none;
+	border-radius:40px;
+	margin:15px 10px;
+}
+button.iconoconfig:active{
+	background-color:#eee;
+}
